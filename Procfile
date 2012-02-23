@@ -1,1 +1,1 @@
-web: bundle exec ruby lol_world.rb
+web: bundle exec ruby lol_world.rb -p $PORT
