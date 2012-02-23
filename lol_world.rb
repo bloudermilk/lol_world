@@ -3,5 +3,5 @@ require "bundler"
 Bundler.require
 
 get "/" do
-  "LOL world 1"
+  "LOL world 2"
 end
