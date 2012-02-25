@@ -1,4 +1,4 @@
 task :test do
-  puts "Fail"
+  puts "I'm going to fail"
   exit 1
 end
