@@ -1,0 +1,3 @@
+before_script: rake before
+script: rake test
+after_script: rake after
