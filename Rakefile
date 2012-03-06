@@ -3,7 +3,7 @@ task :test do
 end
 
 task :before do
-  puts "yay before!"
+  puts "yay before! woot"
 end
 
 task :after do
