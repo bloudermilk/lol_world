@@ -8,5 +8,5 @@ end
 
 task :after do
   puts "yay after!"
-  $STDERR.puts "ooohhh"
+  STDERR.puts "ooohhh"
 end
